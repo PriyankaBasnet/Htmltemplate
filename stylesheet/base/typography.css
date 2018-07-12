@@ -1,0 +1,13 @@
+:root {
+  /* fonts weigths */
+  --light-font-weight: 300;
+  --normal-font-weight: 400;
+  --bold-font-weight: 600;
+  
+  /* font-size */
+  --fontsize-small: 14;
+  --fontsize-base: 16;
+  --fontsize-medium: 18;
+  --fontsize-large: 20;
+  --fontsize-larger: 25;
+}
